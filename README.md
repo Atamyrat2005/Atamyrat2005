@@ -11,7 +11,7 @@ I am a full stack developer with over 2 years of solid experience in web develop
 [<img alt="Atamyrat2005 | Instagram" height="22px" src="./assets/unnamed.webp" />](https://t.me/programmist_hacker)&nbsp;&nbsp;
 
 <p align="center">
-  <a href="https://github.com/atamyrat2005"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20full-stack%20developer;I%20am%20a%20senior%20JavaScript%20engineer;I%20have%205%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/atamyrat2005"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20full-stack%20developer;I%20am%20a%20senior%20Web%20designer;I%20have%202%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
 </p>
 
 ### Technologies
