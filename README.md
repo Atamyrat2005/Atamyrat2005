@@ -1,13 +1,10 @@
 # <h1 align="center">Creative and Passionte Full-Stack Developer <img src="https://user-images.githubusercontent.com/8682003/173229939-4db33dde-fc5f-4381-b5dc-ed2f5aaa844b.png" style="height: 50px;" /></h1>
 
-
-### <center>I am a full stack developer with over 2 years of solid experience in web development</center>
-
 **Contact me&nbsp;&nbsp;&nbsp;&nbsp;**
-[<img style="margin-left: 30px;" alt="Atamyrat2005 | Gmail" height="22px" src="./assets/Gmail.png" />](mailto:komputeratamyrat@gmail.com)&nbsp;&nbsp;
-[<img alt="Atamyrat2005 | ICQ" height="22px" src="./assets/icq.png" />](https://icq.im/turkmen..hacker)&nbsp;&nbsp;
-[<img alt="Atamyrat2005 | Telegram" height="22px" src="./assets/Telegram.jpg" />](https://t.me/programmist_hacker)&nbsp;&nbsp;
-[<img alt="Atamyrat2005 | Instagram" height="22px" src="./assets/unnamed.webp" />](https://www.instagram.com/sukurow_atamyrat)&nbsp;&nbsp;
+[<img style="margin-left: 30px;" alt="Atamyrat2005 | Gmail" height="22px" src="assets/Gmail.png">](mailto:komputeratamyrat@gmail.com)&nbsp;&nbsp;
+[<img alt="Atamyrat2005 | ICQ" height="22px" src="assets/icq.png">](https://icq.im/turkmen..hacker)&nbsp;&nbsp;
+[<img alt="Atamyrat2005 | Telegram" height="22px" src="assets/Telegram.jpg">](https://t.me/programmist_hacker)&nbsp;&nbsp;
+[<img alt="Atamyrat2005 | Instagram" height="22px" src="assets/unnamed.webp">](https://www.instagram.com/sukurow_atamyrat)&nbsp;&nbsp;
 
 <p align="center">
   <a href="https://github.com/atamyrat2005"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20full-stack%20developer;I%20am%20a%20senior%20Web%20designer;I%20have%202%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
