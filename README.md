@@ -1,7 +1,7 @@
 # <h1 align="center">Creative and Passionte Full-Stack Developer <img src="https://user-images.githubusercontent.com/8682003/173229939-4db33dde-fc5f-4381-b5dc-ed2f5aaa844b.png" style="height: 50px;" /></h1>
 
 
-### I am a full stack developer with over 2 years of solid experience in web development
+### <center>I am a full stack developer with over 2 years of solid experience in web development</center>
 
 **Contact me&nbsp;&nbsp;&nbsp;&nbsp;**
 [<img style="margin-left: 30px;" alt="Atamyrat2005 | Gmail" height="22px" src="./assets/Gmail.png" />](mailto:komputeratamyrat@gmail.com)&nbsp;&nbsp;
