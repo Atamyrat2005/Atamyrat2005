@@ -44,10 +44,10 @@ I am a full stack developer with over 2 years of solid experience in web develop
 
 ### My Stats
 <div>
-  <a href="http://github.com/smartcoder0305/" style="width: 40%;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=smartcoder0305&show_icons=true&count_private=true&theme=radical" />
+  <a href="http://github.com/atamyrat2005/" style="width: 40%;">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=atamyrat2005&show_icons=true&count_private=true&theme=radical" />
   </a>
-  <a href="http://github.com/smartcoder0305/" style="width: 40%;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartcoder0305&layout=compact&theme=radical&count_private=true" />
+  <a href="http://github.com/atamyrat2005/" style="width: 40%;">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atamyrat2005&layout=compact&theme=radical&count_private=true" />
   </a>
 <div>
