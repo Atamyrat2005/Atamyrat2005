@@ -1,7 +1,7 @@
 # <h1 align="center">Creative and Passionte Full-Stack Developer <img src="https://user-images.githubusercontent.com/8682003/173229939-4db33dde-fc5f-4381-b5dc-ed2f5aaa844b.png" style="height: 50px;" /></h1>
 
 
-# <h2 align="center">Contact me</h2>
+### <h2 align="center">Contact me</h2>
 <div align="center">
 <a href="mailto:komputeratamyrat@gmail.com"><img src="logo/Gmail.png" alt="Atamyrat2005 | Gmail" height="22px"></a>&nbsp;&nbsp;
 <a href="https://icq.im/turkmen..hacker"><img src="logo/icq.png" alt="Atamyrat2005 | ICQ" height="22px"></a>&nbsp;&nbsp;
@@ -13,9 +13,9 @@
   <a href="https://github.com/atamyrat2005"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20full-stack%20developer;I%20am%20a%20senior%20Web%20designer;I%20have%202%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
 </p>
 
-<h2 align="center">Technologies</h2>
+## <h2 align="center">Technologies</h2>
 
-# <h3 align="center">Frontend</h3>
+## <h3 align="center">Frontend</h3>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
