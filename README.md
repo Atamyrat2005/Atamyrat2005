@@ -3,7 +3,7 @@
 
 # <h2 align="center">Contact me</h2>
 # <div align="center">
-[<img alt="Atamyrat2005 | Gmail" height="22px" src="logo/Gmail.png">](mailto:komputeratamyrat@gmail.com)&nbsp;&nbsp;
+<a href="mailto:komputeratamyrat@gmail.com"><img alt="Atamyrat2005 | Gmail" height="22px" src="logo/Gmail.png"></a>&nbsp;&nbsp;
 [<img alt="Atamyrat2005 | ICQ" height="22px" src="logo/icq.png">](https://icq.im/turkmen..hacker)&nbsp;&nbsp;
 [<img alt="Atamyrat2005 | Telegram" height="22px" src="logo/Telegram.jpg">](https://t.me/programmist_hacker)&nbsp;&nbsp;
 [<img alt="Atamyrat2005 | Instagram" height="22px" src="logo/unnamed.webp">](https://www.instagram.com/sukurow_atamyrat)&nbsp;&nbsp;
