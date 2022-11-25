@@ -9,9 +9,9 @@
 <a href="https://www.instagram.com/sukurow_atamyrat"><img src="logo/unnamed.webp" alt="Atamyrat2005 | Instagram" height="22px"></a>&nbsp;&nbsp;
 </div>
 
-<p align="center">
+<h3 align="center">
   <a href="https://github.com/atamyrat2005"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20full-stack%20developer;I%20am%20a%20senior%20Web%20designer;I%20have%202%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
-</p>
+</h3>
 
 <h2 align="center">Technologies</h2>
 
