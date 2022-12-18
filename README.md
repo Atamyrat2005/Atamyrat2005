@@ -2,11 +2,14 @@
 <div align="center">
     <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  <big>Atamyrat</big>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>
 </div>
-<a href="mailto:komputeratamyrat@gmail.com"><img src="logo/Gmail.png" alt="Atamyrat2005 | Gmail" height="22px"></a>
-<a href='https://icq.im/tm_anonymous' src="https://img.shields.io/badge/-Icq-000000?style=for-the-badge&logo=icq"></a>
-<a href="https://t.me/programmist_hacker"><img src="logo/Telegram.jpg" alt="Atamyrat2005 | Telegram" height="22px"></a>
-<a href="https://www.instagram.com/sukurow_atamyrat"><img src="logo/unnamed.webp" alt="Atamyrat2005 | Instagram" height="22px"></a>
-</div>
+
+### Follow Me
+
+<a href="https://www.instagram.com/sukurow_atamyrat">![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)</a>
+<a href='https://icq.im/tm_anonymous'>![Icq](https://img.shields.io/badge/-ICQ-000000?style=for-the-badge&logo=icq)</a>
+<a href="https://t.me/programmist_hacker">![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)</a>
+<a href='https://github.com/atamyrat2005'>![github](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github)</a>
+<a href="mailto:komputeratamyrat@gmail.com">![gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail)</a>
 
 <p align="center">
   <a href="https://github.com/atamyrat2005"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20full-stack%20developer;I%20am%20a%20senior%20Web%20designer;I%20have%202%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
