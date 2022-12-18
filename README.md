@@ -1,9 +1,10 @@
 
+<div align="center">
 <p align="center">
     <a href="https://github.com/gurbandev/readme-typing-svg">
       <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;Full-stack%20web%20developer;2%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=25" /></a>
   </p>
-
+  
 ### Follow Me
 <a href="https://www.instagram.com/sukurow_atamyrat">![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)</a>
 <a href='https://icq.im/tm_anonymous'>![Icq](https://img.shields.io/badge/-ICQ-000000?style=for-the-badge&logo=icq)</a>
@@ -23,7 +24,6 @@
 ![Postgresql](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=Postgresql) 
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=Python) 
 
-
 <h2 align="center">My stats</h2>
 <div align="center">
   <a href="http://github.com/atamyrat2005/" style="width: 40%;">
@@ -32,4 +32,5 @@
   <a href="http://github.com/atamyrat2005/" style="width: 40%;">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atamyrat2005&layout=compact&theme=radical&count_private=true" />
   </a>
+<div>
 <div>
