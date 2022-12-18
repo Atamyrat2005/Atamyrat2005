@@ -2,10 +2,10 @@
 <div align="center">
     <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  <big>Atamyrat</big>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>
 </div>
-<a href="mailto:komputeratamyrat@gmail.com"><img src="logo/Gmail.png" alt="Atamyrat2005 | Gmail" height="22px"></a>&nbsp;&nbsp;
-<a href='https://icq.im/tm_anonymous'>![icq](https://img.shields.io/badge/-Icq-000000?style=for-the-badge&logo=icq)</a>&nbsp;&nbsp;
-<a href="https://t.me/programmist_hacker"><img src="logo/Telegram.jpg" alt="Atamyrat2005 | Telegram" height="22px"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/sukurow_atamyrat"><img src="logo/unnamed.webp" alt="Atamyrat2005 | Instagram" height="22px"></a>&nbsp;&nbsp;
+<a href="mailto:komputeratamyrat@gmail.com"><img src="logo/Gmail.png" alt="Atamyrat2005 | Gmail" height="22px"></a>
+<a href='https://icq.im/tm_anonymous' src="https://img.shields.io/badge/-Icq-000000?style=for-the-badge&logo=icq"></a>
+<a href="https://t.me/programmist_hacker"><img src="logo/Telegram.jpg" alt="Atamyrat2005 | Telegram" height="22px"></a>
+<a href="https://www.instagram.com/sukurow_atamyrat"><img src="logo/unnamed.webp" alt="Atamyrat2005 | Instagram" height="22px"></a>
 </div>
 
 <p align="center">
