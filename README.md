@@ -1,10 +1,9 @@
-### <h1 align="center">Creative and Passionte Full-Stack Developer <img src="https://user-images.githubusercontent.com/8682003/173229939-4db33dde-fc5f-4381-b5dc-ed2f5aaa844b.png" style="height: 50px;" /></h1>
-
-
 <div align="center">
-<h2 align="center">Contact me</h2>
+<div align="center">
+    <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  <big>Atamyrat</big>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>
+</div>
 <a href="mailto:komputeratamyrat@gmail.com"><img src="logo/Gmail.png" alt="Atamyrat2005 | Gmail" height="22px"></a>&nbsp;&nbsp;
-<a href="https://icq.im/turkmen..hacker"><img src="logo/icq.png" alt="Atamyrat2005 | ICQ" height="22px"></a>&nbsp;&nbsp;
+<a href='https://icq.im/tm_anonymous'>![icq](https://img.shields.io/badge/-Icq-000000?style=for-the-badge&logo=icq)</a>&nbsp;&nbsp;
 <a href="https://t.me/programmist_hacker"><img src="logo/Telegram.jpg" alt="Atamyrat2005 | Telegram" height="22px"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sukurow_atamyrat"><img src="logo/unnamed.webp" alt="Atamyrat2005 | Instagram" height="22px"></a>&nbsp;&nbsp;
 </div>
