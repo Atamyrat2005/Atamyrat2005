@@ -1,8 +1,7 @@
-<div align="center">
-<div align="center">
-    <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  <big>Atamyrat</big>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>
-</div>
-
+<p align="center">
+    <a href="https://github.com/gurbandev/readme-typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;Full-stack%20web%20developer;2%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=25" /></a>
+  </p>
 ### Follow Me
 
 <a href="https://www.instagram.com/sukurow_atamyrat">![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)</a>
@@ -11,31 +10,17 @@
 <a href='https://github.com/atamyrat2005'>![github](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github)</a>
 <a href="mailto:komputeratamyrat@gmail.com">![gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail)</a>
 
-<p align="center">
-  <a href="https://github.com/atamyrat2005"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20full-stack%20developer;I%20am%20a%20senior%20Web%20designer;I%20have%202%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
-</p>
-
-# <h3 align="center">Frontend</h3>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-<img src="https://camo.githubusercontent.com/15b7da9c5e50455ef7c50a5d642afad7ab8d752e575010116727c3865beb026d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d3037363941443f7374796c653d666f722d7468652d6261646765266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465" alt="JQuery" data-canonical-src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" style="max-width: 100%;">
-
-# <h3 align="center">Backend</h3>
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-# <h3 align="center">Datebase</h3>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-# <h3 align="center">Languages</h3>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-# <h3 align="center">Web Dev Tools</h3>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+### Languages and Tools
+![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
+![bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap) 
+![js](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=Javascript)
+![jquery](https://img.shields.io/badge/-Jquery-000000?style=for-the-badge&logo=Jquery) 
+![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP) 
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=Laravel)
+![Mysql](https://img.shields.io/badge/-Mysql-000000?style=for-the-badge&logo=Mysql) 
+![Postgres](https://img.shields.io/badge/-postgres-000000?style=for-the-badge&logo=Postgres) 
+![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=Python) 
 
 
 <h2 align="center">My stats</h2>
