@@ -23,7 +23,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP) 
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=Laravel)
 ![Mysql](https://img.shields.io/badge/-Mysql-000000?style=for-the-badge&logo=Mysql) 
-![Postgresql](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=Postgresql) 
+![Postgresql](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=Postgresql)
+![Postman](https://img.shields.io/badge/-postman-000000?style=for-the-badge&logo=Postman) 
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=Python) 
 
 ### My stats
