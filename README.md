@@ -25,7 +25,10 @@
 ![Mysql](https://img.shields.io/badge/-Mysql-000000?style=for-the-badge&logo=Mysql) 
 ![Postgresql](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=Postgresql)
 ![Postman](https://img.shields.io/badge/-postman-000000?style=for-the-badge&logo=Postman) 
-![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=Python) 
+![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=Python)
+![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
+![Dart](https://img.shields.io/badge/-dart-000000?style=for-the-badge&logo=dart)
+![Flutter](https://img.shields.io/badge/-flutter-000000?style=for-the-badge&logo=flutter)
 
 ### My stats
 <a href="http://github.com/atamyrat2005/" style="width: 40%;">
