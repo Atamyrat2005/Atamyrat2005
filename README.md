@@ -24,6 +24,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=Laravel)
 ![Mysql](https://img.shields.io/badge/-Mysql-000000?style=for-the-badge&logo=Mysql) 
 ![Postgresql](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=Postgresql)
+![PWA](https://img.shields.io/badge/-PWA-000000?style=for-the-badge&logo=pwa)
 ![Postman](https://img.shields.io/badge/-postman-000000?style=for-the-badge&logo=Postman) 
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
