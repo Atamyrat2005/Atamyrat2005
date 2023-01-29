@@ -14,11 +14,10 @@
 <a href="mailto:shukurovatamyrat@gmail.com">![gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail)</a>
 <a href="https://gitlab.com/Atamyrat2005">![gitlab](https://img.shields.io/badge/-Gitlab-000000?style=for-the-badge&logo=gitlab)</a>
 
-### Languages and Tools
+### Using Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap) 
-![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma)
 ![js](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=Javascript)
 ![jquery](https://img.shields.io/badge/-Jquery-000000?style=for-the-badge&logo=Jquery) 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP) 
@@ -28,6 +27,8 @@
 ![PWA](https://img.shields.io/badge/-PWA-000000?style=for-the-badge&logo=pwa)
 ![Postman](https://img.shields.io/badge/-postman-000000?style=for-the-badge&logo=Postman) 
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=Python)
+### Learning Languages and Tools
+![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma)
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
 ![Dart](https://img.shields.io/badge/-dart-000000?style=for-the-badge&logo=dart)
 ![Flutter](https://img.shields.io/badge/-flutter-000000?style=for-the-badge&logo=flutter)
