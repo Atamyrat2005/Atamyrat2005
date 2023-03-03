@@ -37,6 +37,6 @@
 
 ### My stats
 <a href="http://github.com/atamyrat2005/" style="width: 40%;">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atamyrat2005&layout=compact&theme=radical&count_private=true" />
+![Atamyrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=atamyrat2005&show_icons=true&theme=radical)
 </a>
 <div>
