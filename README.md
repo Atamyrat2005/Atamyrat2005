@@ -27,13 +27,15 @@
 ![Postgresql](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=Postgresql)
 ![PWA](https://img.shields.io/badge/-PWA-000000?style=for-the-badge&logo=pwa)
 ![Postman](https://img.shields.io/badge/-postman-000000?style=for-the-badge&logo=Postman)
+![Dart](https://img.shields.io/badge/-dart-000000?style=for-the-badge&logo=dart)
+![Flutter](https://img.shields.io/badge/-flutter-000000?style=for-the-badge&logo=flutter)
 ![VSCODE](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&logo=visualstudiocode)
 ![Phpstorm](https://img.shields.io/badge/-phpstorm-000000?style=for-the-badge&logo=Phpstorm)
 ### Learning Languages and Tools
 ![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma)
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
-![Dart](https://img.shields.io/badge/-dart-000000?style=for-the-badge&logo=dart)
-![Flutter](https://img.shields.io/badge/-flutter-000000?style=for-the-badge&logo=flutter)
+![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
+![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
 
 ### My stats
 <a href="http://github.com/atamyrat2005/" style="width: 40%;">
