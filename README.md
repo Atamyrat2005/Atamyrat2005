@@ -36,6 +36,7 @@
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
 ![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
+![Typescript](https://img.shields.io/badge/-type%20script-000000?style=for-the-badge&logo=typescript)
 
 ### My stats
 <a href="http://github.com/atamyrat2005/" style="width: 40%;">
