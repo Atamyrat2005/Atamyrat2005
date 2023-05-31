@@ -5,8 +5,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;Full-stack%20developer;3%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=25" />
   </a>
 </p>
-  <a href="https://atamyrat2005.github.io/">![ATAMYRAT](https://img.shields.io/badge/-ATAMYRAT-000000?style=for-the-badge&logo=user)</a>
+
 ### Follow Me
+<a href="https://atamyrat2005.github.io/">![ATAMYRAT](https://img.shields.io/badge/-ATAMYRAT-000000?style=for-the-badge&logo=user)</a>
 <a href="https://www.instagram.com/sukurow_atamyrat">![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)</a>
 <a href="https://t.me/programmist_hacker">![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)</a>
 <a href='https://github.com/atamyrat2005'>![github](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github)</a>
