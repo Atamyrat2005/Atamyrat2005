@@ -22,7 +22,7 @@
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-000000?style=for-the-badge&logo=ubuntu) 
 ![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux) 
 ![Debian](https://img.shields.io/badge/-debian-000000?style=for-the-badge&logo=debian)
-![Kalilinux]([https://img.shields.io/badge/-debian-000000?style=for-the-badge&logo=kali](https://img.shields.io/badge/-kali%20linux-000000?style=for-the-badge&logo=kalilinux)
+![Kalilinux](https://img.shields.io/badge/-kali%20linux-000000?style=for-the-badge&logo=kalilinux)
 
 ### Using Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
