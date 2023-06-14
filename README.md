@@ -15,6 +15,15 @@
 <a href="mailto:shukurovatamyrat@gmail.com">![gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail)</a>
 <a href="https://gitlab.com/Atamyrat2005">![gitlab](https://img.shields.io/badge/-Gitlab-000000?style=for-the-badge&logo=gitlab)</a>
 
+### Operating systems
+![Windows](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows11)
+![Apple](https://img.shields.io/badge/-Apple-000000?style=for-the-badge&logo=apple)
+![Android](https://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=android) 
+![Ubuntu](https://img.shields.io/badge/-ubuntu-000000?style=for-the-badge&logo=ubuntu) 
+![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux) 
+![Debian](https://img.shields.io/badge/-debian-000000?style=for-the-badge&logo=debian)
+![Kalilinux]([https://img.shields.io/badge/-debian-000000?style=for-the-badge&logo=kali](https://img.shields.io/badge/-kali%20linux-000000?style=for-the-badge&logo=kalilinux)
+
 ### Using Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
