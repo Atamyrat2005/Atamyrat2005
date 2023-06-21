@@ -1,8 +1,7 @@
-
 <div align="center">
 <p align="center">
   <a href="https://github.com/atamyrat2005">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;Full-stack%20developer;3%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=25" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;Full-stack%20developer;3%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=27.5" />
   </a>
 </p>
 
@@ -10,10 +9,13 @@
 <a href="https://atamyrat2005.github.io/">![ATAMYRAT](https://img.shields.io/badge/-ATAMYRAT-000000?style=for-the-badge&logo=user)</a>
 <a href="https://www.instagram.com/sukurow_atamyrat">![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)</a>
 <a href="https://tiktok.com/@atamyrat05">![tiktok](https://img.shields.io/badge/-tik%20tok-000000?style=for-the-badge&logo=tiktok)</a>
+<a href="https://twitter.com/atamyrat2005">![twitter](https://img.shields.io/badge/-twitter-000000?style=for-the-badge&logo=twitter)</a>
+<a href="https://www.facebook.com/atamyrat.sukurow">![facebook](https://img.shields.io/badge/-facebook-000000?style=for-the-badge&logo=facebook)</a>
 <a href="https://t.me/programmist_hacker">![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)</a>
 <a href='https://github.com/atamyrat2005'>![github](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github)</a>
 <a href="mailto:shukurovatamyrat@gmail.com">![gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail)</a>
 <a href="https://gitlab.com/Atamyrat2005">![gitlab](https://img.shields.io/badge/-Gitlab-000000?style=for-the-badge&logo=gitlab)</a>
+<a href="https://codepen.io/Atamyrat-k-row">![codepen](https://img.shields.io/badge/-codepen-000000?style=for-the-badge&logo=codepen)</a>
 
 ### Operating systems
 ![Windows](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows11)
@@ -27,8 +29,10 @@
 ### Using Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
+![sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap) 
 ![js](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=Javascript)
+![chartjs](https://img.shields.io/badge/-chart.js-000000?style=for-the-badge&logo=chart.js)
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=Python)
 ![jquery](https://img.shields.io/badge/-Jquery-000000?style=for-the-badge&logo=Jquery) 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP) 
@@ -62,4 +66,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=atamyrat2005&show_icons=true" />
 </picture>
 </a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atamyrat2005)  
+
+![Profile views](https://gpvc.arturio.dev/atamyrat2005) 
 <div>
