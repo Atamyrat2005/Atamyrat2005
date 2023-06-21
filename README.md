@@ -66,7 +66,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=atamyrat2005&show_icons=true" />
 </picture>
 </a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atamyrat2005)  
-
-![Profile views](https://gpvc.arturio.dev/atamyrat2005) 
 <div>
