@@ -61,6 +61,6 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=atamyrat2005&show_icons=true" />
 </picture>
-  <img src="https://camo.githubusercontent.com/387cc8a5cce95959d9f632d38c66bb0302a0b337c083a9b4c6b49fe68323a90a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d617273676f7a656c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" data-canonical-src="https://komarev.com/ghpvc/?username=arsgozel&label=Profile%20views&color=0e75b6&style=flat">
+  <img src="https://camo.githubusercontent.com/387cc8a5cce95959d9f632d38c66bb0302a0b337c083a9b4c6b49fe68323a90a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d617273676f7a656c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" data-canonical-src="https://komarev.com/ghpvc/?username=atamyrat2005&label=Profile%20views&color=000000&style=flat">
 </a>
 <div>
