@@ -4,12 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;Full-stack%20developer;3%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=25" />
   </a>
 </p>
-  
-### 💫 About Me
-
-<p align="center">
-I consider myself Full-stack Web developer with deep knowledge of Back-end like Laravel and of course Front-end like Html, Css, JavaScript and Bootstrap. Also I have experience with other frameworks, programming languages and tools like Jquery, Flutter, PWA, Python, React, Nginx, Ubuntu, Kali Linux etc...
-</p>
 
 ### 🌐 Follow Me
 <a href="https://atamyrat2005.github.io/">![ATAMYRAT](https://img.shields.io/badge/-ATAMYRAT-000000?style=for-the-badge&logo=user)</a>
@@ -23,7 +17,7 @@ I consider myself Full-stack Web developer with deep knowledge of Back-end like 
 <a href="https://gitlab.com/Atamyrat2005">![gitlab](https://img.shields.io/badge/-Gitlab-000000?style=for-the-badge&logo=gitlab)</a>
 <a href="https://codepen.io/Atamyrat-k-row">![codepen](https://img.shields.io/badge/-codepen-000000?style=for-the-badge&logo=codepen)</a>
 
-### 💻 Operating systems
+### 💫 Operating systems
 ![Windows](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows11)
 ![Apple](https://img.shields.io/badge/-Apple-000000?style=for-the-badge&logo=apple)
 ![Android](https://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=android) 
@@ -51,7 +45,7 @@ I consider myself Full-stack Web developer with deep knowledge of Back-end like 
 ![Flutter](https://img.shields.io/badge/-flutter-000000?style=for-the-badge&logo=flutter)
 ![VSCODE](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&logo=visualstudiocode)
 ![Phpstorm](https://img.shields.io/badge/-phpstorm-000000?style=for-the-badge&logo=Phpstorm)
-### 💻 Learning Languages and Tools
+### ✍ Learning Languages and Tools
 ![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma)
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
 ![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
@@ -60,7 +54,8 @@ I consider myself Full-stack Web developer with deep knowledge of Back-end like 
 
 <details>
 <summary>
-📊 My stats
+  
+## 📊 My stats
 </summary>
 <a href="http://github.com/atamyrat2005/" style="width: 40%;">
   
@@ -68,14 +63,5 @@ I consider myself Full-stack Web developer with deep knowledge of Back-end like 
 <br><br>
 ![](https://github-readme-stats.vercel.app/api?username=Atamyrat2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 </a>
-</details>
-
-<details>
-<summary>
-🏆 GitHub Trophies
-</summary>
-
-![](https://github-profile-trophy.vercel.app/?username=Atamyrat2005&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
 </details>
 <div>
