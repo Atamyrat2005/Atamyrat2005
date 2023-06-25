@@ -60,8 +60,7 @@ I consider myself Full-stack Web developer with deep knowledge of Back-end like 
 
 <details>
 <summary>
-  
-### 📊 My stats
+📊 My stats
 </summary>
 <a href="http://github.com/atamyrat2005/" style="width: 40%;">
   
@@ -70,7 +69,13 @@ I consider myself Full-stack Web developer with deep knowledge of Back-end like 
 ![](https://github-readme-stats.vercel.app/api?username=Atamyrat2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 </a>
 </details>
-### 🏆 GitHub Trophies
+
+<details>
+<summary>
+🏆 GitHub Trophies
+</summary>
+
 ![](https://github-profile-trophy.vercel.app/?username=Atamyrat2005&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
+</details>
 <div>
