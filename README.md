@@ -4,8 +4,10 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;Full-stack%20developer;3%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=25" />
   </a>
 </p>
+### 💫 About Me
+I consider myself Full-stack Web developer with deep knowledge of Back-end like Laravel and of course Front-end like Html, Css, JavaScript and Bootstrap. Also I have experience with other frameworks, programming languages and tools like Jquery, Flutter, PWA, Python, React, Nginx, Ubuntu, Kali Linux etc...
 
-### Follow Me
+### 🌐 Follow Me
 <a href="https://atamyrat2005.github.io/">![ATAMYRAT](https://img.shields.io/badge/-ATAMYRAT-000000?style=for-the-badge&logo=user)</a>
 <a href="https://www.instagram.com/sukurow_atamyrat">![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)</a>
 <a href="https://tiktok.com/@atamyrat05">![tiktok](https://img.shields.io/badge/-tik%20tok-000000?style=for-the-badge&logo=tiktok)</a>
@@ -45,18 +47,21 @@
 ![Flutter](https://img.shields.io/badge/-flutter-000000?style=for-the-badge&logo=flutter)
 ![VSCODE](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&logo=visualstudiocode)
 ![Phpstorm](https://img.shields.io/badge/-phpstorm-000000?style=for-the-badge&logo=Phpstorm)
-### 💻 Learning Languages and Tools
+## 💻 Learning Languages and Tools
 ![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma)
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
 ![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
 ![Typescript](https://img.shields.io/badge/-type%20script-000000?style=for-the-badge&logo=typescript)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Atamyrat2005&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 ### 📊 My stats
 <a href="http://github.com/atamyrat2005/" style="width: 40%;">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atamyrat2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
+<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=Atamyrat2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 </a>
