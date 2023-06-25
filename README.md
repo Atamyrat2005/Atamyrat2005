@@ -17,7 +17,7 @@
 <a href="https://gitlab.com/Atamyrat2005">![gitlab](https://img.shields.io/badge/-Gitlab-000000?style=for-the-badge&logo=gitlab)</a>
 <a href="https://codepen.io/Atamyrat-k-row">![codepen](https://img.shields.io/badge/-codepen-000000?style=for-the-badge&logo=codepen)</a>
 
-### Operating systems
+### 💻 Operating systems
 ![Windows](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows11)
 ![Apple](https://img.shields.io/badge/-Apple-000000?style=for-the-badge&logo=apple)
 ![Android](https://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=android) 
@@ -26,7 +26,7 @@
 ![Debian](https://img.shields.io/badge/-debian-000000?style=for-the-badge&logo=debian)
 ![Kalilinux](https://img.shields.io/badge/-kali%20linux-000000?style=for-the-badge&logo=kalilinux)
 
-### Using Languages and Tools
+### 💻 Using Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
 ![sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass)
@@ -45,25 +45,19 @@
 ![Flutter](https://img.shields.io/badge/-flutter-000000?style=for-the-badge&logo=flutter)
 ![VSCODE](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&logo=visualstudiocode)
 ![Phpstorm](https://img.shields.io/badge/-phpstorm-000000?style=for-the-badge&logo=Phpstorm)
-### Learning Languages and Tools
+### 💻 Learning Languages and Tools
 ![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma)
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
 ![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
 ![Typescript](https://img.shields.io/badge/-type%20script-000000?style=for-the-badge&logo=typescript)
 
-### My stats
+### 📊 My stats
 <a href="http://github.com/atamyrat2005/" style="width: 40%;">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=atamyrat2005&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=atamyrat2005&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=atamyrat2005&show_icons=true" />
-</picture>
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atamyrat2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+![](https://github-readme-stats.vercel.app/api?username=Atamyrat2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 </a>
 <div>
