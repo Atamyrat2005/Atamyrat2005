@@ -4,8 +4,12 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;Full-stack%20developer;3%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=25" />
   </a>
 </p>
+  
 ### 💫 About Me
+
+<p align="center">
 I consider myself Full-stack Web developer with deep knowledge of Back-end like Laravel and of course Front-end like Html, Css, JavaScript and Bootstrap. Also I have experience with other frameworks, programming languages and tools like Jquery, Flutter, PWA, Python, React, Nginx, Ubuntu, Kali Linux etc...
+</p>
 
 ### 🌐 Follow Me
 <a href="https://atamyrat2005.github.io/">![ATAMYRAT](https://img.shields.io/badge/-ATAMYRAT-000000?style=for-the-badge&logo=user)</a>
