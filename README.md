@@ -51,15 +51,12 @@ I consider myself Full-stack Web developer with deep knowledge of Back-end like 
 ![Flutter](https://img.shields.io/badge/-flutter-000000?style=for-the-badge&logo=flutter)
 ![VSCODE](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&logo=visualstudiocode)
 ![Phpstorm](https://img.shields.io/badge/-phpstorm-000000?style=for-the-badge&logo=Phpstorm)
-## 💻 Learning Languages and Tools
+### 💻 Learning Languages and Tools
 ![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma)
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
 ![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
 ![Typescript](https://img.shields.io/badge/-type%20script-000000?style=for-the-badge&logo=typescript)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Atamyrat2005&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ### 📊 My stats
 <a href="http://github.com/atamyrat2005/" style="width: 40%;">
@@ -67,6 +64,9 @@ I consider myself Full-stack Web developer with deep knowledge of Back-end like 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atamyrat2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br><br>
 ![](https://github-readme-stats.vercel.app/api?username=Atamyrat2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 </a>
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Atamyrat2005&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 <div>
