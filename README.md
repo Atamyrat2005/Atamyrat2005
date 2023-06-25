@@ -58,14 +58,18 @@ I consider myself Full-stack Web developer with deep knowledge of Back-end like 
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
 ![Typescript](https://img.shields.io/badge/-type%20script-000000?style=for-the-badge&logo=typescript)
 
+<details>
+<summary>
+  
 ### 📊 My stats
+</summary>
 <a href="http://github.com/atamyrat2005/" style="width: 40%;">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atamyrat2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br><br>
 ![](https://github-readme-stats.vercel.app/api?username=Atamyrat2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 </a>
-
+</details>
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Atamyrat2005&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
