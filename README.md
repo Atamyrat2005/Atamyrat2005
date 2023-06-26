@@ -46,11 +46,11 @@
 ![VSCODE](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&logo=visualstudiocode)
 ![Phpstorm](https://img.shields.io/badge/-phpstorm-000000?style=for-the-badge&logo=Phpstorm)
 ### 💡 Learning Languages and Tools
-![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma)
-![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
-![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=vue.js)
+![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
+![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
+![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma)
 
 <details>
 <summary>
