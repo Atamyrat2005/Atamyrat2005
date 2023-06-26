@@ -50,7 +50,7 @@
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
 ![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
-![Typescript](https://img.shields.io/badge/-type%20script-000000?style=for-the-badge&logo=typescript)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=vue.js)
 
 <details>
 <summary>
