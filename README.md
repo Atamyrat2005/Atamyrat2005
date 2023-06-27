@@ -51,17 +51,12 @@
 ![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
 ![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma)
-
-<details>
-<summary>
   
 ### 📊 My stats
-</summary>
 <a href="http://github.com/atamyrat2005/" style="width: 40%;">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atamyrat2005&hide=css,scss,html&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&count-private=true)
 <br><br>
 ![](https://github-readme-stats.vercel.app/api?username=Atamyrat2005&theme=dark&hide_border=false&include_all_commits=true&count-private=true)
 </a>
-</details>
 <div>
