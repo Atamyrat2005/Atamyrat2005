@@ -49,8 +49,11 @@
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=vue.js)
 ![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
+![docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
+![mongodb](https://img.shields.io/badge/-mongo%20db-000000?style=for-the-badge&logo=mongodb)
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
 ![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma)
+![astro](https://img.shields.io/badge/-astro-000000?style=for-the-badge&logo=astro)
   
 ### 📊 My stats
 <a href="http://github.com/atamyrat2005/" style="width: 40%;">
