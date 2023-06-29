@@ -47,6 +47,7 @@
 ![Phpstorm](https://img.shields.io/badge/-phpstorm-000000?style=for-the-badge&logo=Phpstorm)
 ### 💡 Learning Languages and Tools
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
+![json](https://img.shields.io/badge/-json-000000?style=for-the-badge&logo=json)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=vue.js)
 ![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
 ![docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
