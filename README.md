@@ -27,12 +27,12 @@
 ![Kalilinux](https://img.shields.io/badge/-kali%20linux-000000?style=for-the-badge&logo=kalilinux)
 
 ### 💻 Using Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
 ![sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap) 
 ![js](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=Javascript)
-![chartjs](https://img.shields.io/badge/-chart.js-000000?style=for-the-badge&logo=chart.js)
+![chartjs](https://img.shields.io/badge/-chart-000000?style=for-the-badge&logo=chart.js)
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=Python)
 ![jquery](https://img.shields.io/badge/-Jquery-000000?style=for-the-badge&logo=Jquery) 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP) 
