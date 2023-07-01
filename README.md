@@ -3,6 +3,7 @@
   <a href="https://github.com/atamyrat2005">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;Full-stack%20developer;3%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=25" />
   </a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=atamyrat2005&label=Profile%20views&color=0e75b6&style=flat" alt="atamyrat2005" /> </p>
 </p>
 
 ### 🌐 Follow Me
