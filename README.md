@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
   <a href="https://github.com/atamyrat2005">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;Full-stack%20developer;3%2B%20years%20of%20coding%20experience&;I%20consider%20myself%20Full-stack%20Web%20developer%20with%20deep%20knowledge%20of%20Back-end%20like%20Laravel%20and%20of%20course%20Front-end%20like%20Html,%20Css,%20JavaScript,%20Jquery,%20React%20and%20Bootstrap.%20Also%20I%20have%20experience%20with%20other%20frameworks,%20programming%20languages%20and%20tools%20like%20Flutter%20PWA%20Python%20Vue,%20Ubuntu,%20Kali%20Linux%20etc...&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=25" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;I%20am%20Full-stack%20web%20developer%20with%20deep%20knowledge%20of%20Back-end%20like%20Laravel;3%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=25" />
   </a>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=atamyrat2005&label=Profile%20views&color=0e75b6&style=flat" alt="atamyrat2005" /> </p>
 </p>
