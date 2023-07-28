@@ -7,7 +7,7 @@
 </p>
 
 ### 🌐 Follow Me
-<a href="https://atamyrat2005.github.io/">![ATAMYRAT](https://img.shields.io/badge/-ATAMYRAT-000000?style=for-the-badge&logo=user)</a>
+<a href="https://atamyrat2005.github.io/">![ATAMYRAT](https://img.shields.io/badge/-atamyrat-000000?style=for-the-badge)</a>
 <a href="https://www.instagram.com/sukurow_atamyrat">![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)</a>
 <a href="https://tiktok.com/@atamyrat05">![tiktok](https://img.shields.io/badge/-tik%20tok-000000?style=for-the-badge&logo=tiktok)</a>
 <a href="https://join.skype.com/invite/LgyAGTDhpykv">![skype](https://img.shields.io/badge/-skype-000000?style=for-the-badge&logo=skype)</a>
@@ -21,10 +21,12 @@
 
 ### 🖥️ Operating systems
 ![Windows](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows11)
+![Apple](https://img.shields.io/badge/-IOS-000000?style=for-the-badge&logo=ios)
 ![Apple](https://img.shields.io/badge/-Apple-000000?style=for-the-badge&logo=apple)
 ![Android](https://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=android) 
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-000000?style=for-the-badge&logo=ubuntu) 
 ![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux) 
+![Linux](https://img.shields.io/badge/-centos-000000?style=for-the-badge&logo=centos) 
 ![Debian](https://img.shields.io/badge/-debian-000000?style=for-the-badge&logo=debian)
 ![Kalilinux](https://img.shields.io/badge/-kali%20linux-000000?style=for-the-badge&logo=kalilinux)
 
@@ -56,9 +58,11 @@
 ![Photoshop](https://img.shields.io/badge/-photoshop-000000?style=for-the-badge&logo=adobephotoshop)
 ### 💡 Learning Languages and Tools
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=vue.js)
+![Vue](https://img.shields.io/badge/-Node-000000?style=for-the-badge&logo=node.js)
 ![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
 ![docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
 ![mongodb](https://img.shields.io/badge/-mongo%20db-000000?style=for-the-badge&logo=mongodb)
+![firebase](https://img.shields.io/badge/-firebase-000000?style=for-the-badge&logo=firebase)
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
   
 ### 📊 My stats
