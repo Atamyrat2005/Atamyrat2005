@@ -26,7 +26,8 @@
 ![Android](https://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=android) 
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-000000?style=for-the-badge&logo=ubuntu) 
 ![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux) 
-![Linux](https://img.shields.io/badge/-centos-000000?style=for-the-badge&logo=centos) 
+![Centos](https://img.shields.io/badge/-centos-000000?style=for-the-badge&logo=centos) 
+![Mint](https://img.shields.io/badge/-mint-000000?style=for-the-badge&logo=linuxmint) 
 ![Debian](https://img.shields.io/badge/-debian-000000?style=for-the-badge&logo=debian)
 ![Kalilinux](https://img.shields.io/badge/-kali%20linux-000000?style=for-the-badge&logo=kalilinux)
 
@@ -44,11 +45,13 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=Laravel)
 ![Mysql](https://img.shields.io/badge/-Mysql-000000?style=for-the-badge&logo=Mysql) 
 ![Postgresql](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=Postgresql)
+![mongodb](https://img.shields.io/badge/-mongo%20db-000000?style=for-the-badge&logo=mongodb)
 ![json](https://img.shields.io/badge/-json-000000?style=for-the-badge&logo=json)
 ![PWA](https://img.shields.io/badge/-PWA-000000?style=for-the-badge&logo=pwa)
 ![Postman](https://img.shields.io/badge/-postman-000000?style=for-the-badge&logo=Postman)
 ![VSCODE](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&logo=visualstudiocode)
 ![Phpstorm](https://img.shields.io/badge/-phpstorm-000000?style=for-the-badge&logo=Phpstorm)
+![docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
 ![git](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github)
 ![Dart](https://img.shields.io/badge/-dart-000000?style=for-the-badge&logo=dart)
@@ -60,11 +63,9 @@
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=vue.js)
 ![Vue](https://img.shields.io/badge/-Node-000000?style=for-the-badge&logo=node.js)
 ![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
-![docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
-![mongodb](https://img.shields.io/badge/-mongo%20db-000000?style=for-the-badge&logo=mongodb)
-![firebase](https://img.shields.io/badge/-firebase-000000?style=for-the-badge&logo=firebase)
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
-  
+![firebase](https://img.shields.io/badge/-firebase-000000?style=for-the-badge&logo=firebase)
+
 ### 📊 My stats
 <a href="http://github.com/atamyrat2005/" style="width: 40%;">
   
