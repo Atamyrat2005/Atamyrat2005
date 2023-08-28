@@ -13,7 +13,7 @@
 <a href="https://join.skype.com/invite/LgyAGTDhpykv">![skype](https://img.shields.io/badge/-skype-000000?style=for-the-badge&logo=skype)</a>
 <a href="https://twitter.com/atamyrat2005">![twitter](https://img.shields.io/badge/-twitter-000000?style=for-the-badge&logo=twitter)</a>
 <a href="https://www.facebook.com/atamyrat.sukurow">![facebook](https://img.shields.io/badge/-facebook-000000?style=for-the-badge&logo=facebook)</a>
-<a href="https://t.me/programmist_hacker">![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)</a>
+<a href="https://t.me/atamyratt">![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)</a>
 <a href='https://github.com/atamyrat2005'>![github](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github)</a>
 <a href="mailto:shukurovatamyrat@gmail.com">![gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail)</a>
 <a href="https://gitlab.com/Atamyrat2005">![gitlab](https://img.shields.io/badge/-Gitlab-000000?style=for-the-badge&logo=gitlab)</a>
