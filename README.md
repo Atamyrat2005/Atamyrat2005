@@ -18,6 +18,7 @@
 <a href="mailto:shukurovatamyrat@gmail.com">![gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail)</a>
 <a href="https://gitlab.com/Atamyrat2005">![gitlab](https://img.shields.io/badge/-Gitlab-000000?style=for-the-badge&logo=gitlab)</a>
 <a href="https://codepen.io/Atamyrat-k-row">![codepen](https://img.shields.io/badge/-codepen-000000?style=for-the-badge&logo=codepen)</a>
+<a href="https://stackoverflow.com/users/16563592/atamyrat-%c5%9e%c3%bck%c3%bcrow">![stackoverflow](https://img.shields.io/badge/-stack%20overflow-000000?style=for-the-badge&logo=stackoverflow)</a>
 
 ### 🖥️ Operating systems
 ![Windows](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows11)
