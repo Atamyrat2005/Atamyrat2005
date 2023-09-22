@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/sukurow_atamyrat">![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)</a>
 <a href="https://tiktok.com/@atamyrat05">![tiktok](https://img.shields.io/badge/-tik%20tok-000000?style=for-the-badge&logo=tiktok)</a>
 <a href="https://join.skype.com/invite/LgyAGTDhpykv">![skype](https://img.shields.io/badge/-skype-000000?style=for-the-badge&logo=skype)</a>
-<a href="https://twitter.com/atamyrat2005">![twitter](https://img.shields.io/badge/-twitter-000000?style=for-the-badge&logo=twitter)</a>
+<a href="https://twitter.com/atamyrat2005">![x](https://img.shields.io/badge/-twitter-000000?style=for-the-badge&logo=x)</a>
 <a href="https://www.facebook.com/atamyrat.sukurow">![facebook](https://img.shields.io/badge/-facebook-000000?style=for-the-badge&logo=facebook)</a>
 <a href="https://t.me/atamyratt">![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)</a>
 <a href='https://github.com/atamyrat2005'>![github](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github)</a>
