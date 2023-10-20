@@ -6,7 +6,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=atamyrat2005&label=Profile%20views&color=0e75b6&style=flat" alt="atamyrat2005" /> </p>
 </p>
 
-### 🌐 Follow Me
+### 🌐 Follow Me / Contact Me / Reach Me
 <a href="https://atamyrat2005.github.io/">![ATAMYRAT](https://img.shields.io/badge/-atamyrat-000000?style=for-the-badge)</a>
 <a href="https://www.instagram.com/sukurow_atamyrat">![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)</a>
 <a href="https://tiktok.com/@atamyrat05">![tiktok](https://img.shields.io/badge/-tik%20tok-000000?style=for-the-badge&logo=tiktok)</a>
@@ -20,7 +20,7 @@
 <a href="https://codepen.io/Atamyrat-k-row">![codepen](https://img.shields.io/badge/-codepen-000000?style=for-the-badge&logo=codepen)</a>
 <a href="https://stackoverflow.com/users/16563592/atamyrat-%c5%9e%c3%bck%c3%bcrow">![stackoverflow](https://img.shields.io/badge/-stack%20overflow-000000?style=for-the-badge&logo=stackoverflow)</a>
 
-### 🖥️ Operating systems
+### 🖥️ I used and using this Operating systems
 ![Windows](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows11)
 ![Apple](https://img.shields.io/badge/-IOS-000000?style=for-the-badge&logo=ios)
 ![Apple](https://img.shields.io/badge/-Apple-000000?style=for-the-badge&logo=apple)
@@ -32,7 +32,7 @@
 ![Debian](https://img.shields.io/badge/-debian-000000?style=for-the-badge&logo=debian)
 ![Kalilinux](https://img.shields.io/badge/-kali%20linux-000000?style=for-the-badge&logo=kalilinux)
 
-### 💻 Using Languages and Tools
+### 💻 I use this Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
 ![sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass)
@@ -60,11 +60,11 @@
 ![androidstudio](https://img.shields.io/badge/-android%20studio-000000?style=for-the-badge&logo=androidstudio)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000000?style=for-the-badge&logo=adobeillustrator)
 ![Photoshop](https://img.shields.io/badge/-photoshop-000000?style=for-the-badge&logo=adobephotoshop)
-### 💡 Learning Languages and Tools
-![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=vue.js)
-![Vue](https://img.shields.io/badge/-Node-000000?style=for-the-badge&logo=node.js)
-![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
+### 💡 Now I'm learning this Languages and Tools
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
+![Node](https://img.shields.io/badge/-Node%20js-000000?style=for-the-badge&logo=node.js)
+![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=vue.js)
 ![firebase](https://img.shields.io/badge/-firebase-000000?style=for-the-badge&logo=firebase)
 
 ### 📊 My stats
