@@ -21,7 +21,16 @@
 <a href="https://stackoverflow.com/users/16563592/atamyrat-%c5%9e%c3%bck%c3%bcrow">![stackoverflow](https://img.shields.io/badge/-stack%20overflow-000000?style=for-the-badge&logo=stackoverflow)</a>
 
 ### 🖥️ I used and using this Operating systems
-<img src="https://skillicons.dev/icons?i=windows,apple,ios,windows11,linux,kalilinux,ubuntu,debian,centos" alt="skills logos" />
+![Windows](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows11)
+![Apple](https://img.shields.io/badge/-IOS-000000?style=for-the-badge&logo=ios)
+![Apple](https://img.shields.io/badge/-Apple-000000?style=for-the-badge&logo=apple)
+![Android](https://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=android) 
+![Ubuntu](https://img.shields.io/badge/-ubuntu-000000?style=for-the-badge&logo=ubuntu) 
+![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux) 
+![Centos](https://img.shields.io/badge/-centos-000000?style=for-the-badge&logo=centos) 
+![Mint](https://img.shields.io/badge/-mint-000000?style=for-the-badge&logo=linuxmint) 
+![Debian](https://img.shields.io/badge/-debian-000000?style=for-the-badge&logo=debian)
+![Kalilinux](https://img.shields.io/badge/-kali%20linux-000000?style=for-the-badge&logo=kalilinux)
 
 ### 💻 I use this Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
