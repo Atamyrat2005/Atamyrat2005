@@ -64,7 +64,6 @@
 ### 💡 Now I'm learning this Languages and Tools
 ![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
 ![Node](https://img.shields.io/badge/-Node%20js-000000?style=for-the-badge&logo=node.js)
-![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=vue.js)
 ![firebase](https://img.shields.io/badge/-firebase-000000?style=for-the-badge&logo=firebase)
 
