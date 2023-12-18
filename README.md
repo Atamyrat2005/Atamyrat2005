@@ -48,6 +48,7 @@
 ![Postgresql](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=Postgresql)
 ![mongodb](https://img.shields.io/badge/-mongo%20db-000000?style=for-the-badge&logo=mongodb)
 ![json](https://img.shields.io/badge/-json-000000?style=for-the-badge&logo=json)
+![nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
 ![PWA](https://img.shields.io/badge/-PWA-000000?style=for-the-badge&logo=pwa)
 ![Postman](https://img.shields.io/badge/-postman-000000?style=for-the-badge&logo=Postman)
 ![VSCODE](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&logo=visualstudiocode)
