@@ -69,7 +69,7 @@
 ![firebase](https://img.shields.io/badge/-firebase-000000?style=for-the-badge&logo=firebase)
 
 ### 📊 My stats
-<a href="http://github.com/atamyrat2005/" style="width: 40%;">
+<a href="http://github.com/atamyrat2005/" style="width: 50%;">
   
 ![Stats1](https://github-readme-stats.vercel.app/api/top-langs?username=atamyrat2005&langs_count=16&card_width=320&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
 <br><br>
