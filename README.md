@@ -50,6 +50,7 @@
 ![apache](https://img.shields.io/badge/-apache-000000?style=for-the-badge&logo=apache)
 ![PWA](https://img.shields.io/badge/-PWA-000000?style=for-the-badge&logo=pwa)
 ![Postman](https://img.shields.io/badge/-postman-000000?style=for-the-badge&logo=Postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-000000?style=for-the-badge&logo=Insomnia)
 ![VSCODE](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&logo=visualstudiocode)
 ![Phpstorm](https://img.shields.io/badge/-phpstorm-000000?style=for-the-badge&logo=Phpstorm)
 ![docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
