@@ -7,7 +7,6 @@
 </p>
 
 ### 🌐 Follow Me / Contact Me / Reach Me
-<a href="https://atamyrat2005.github.io/">![ATAMYRAT](https://img.shields.io/badge/-atamyrat-000000?style=for-the-badge)</a>
 <a href="https://www.instagram.com/sukurow_atamyrat">![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)</a>
 <a href="https://tiktok.com/@atamyrat05">![tiktok](https://img.shields.io/badge/-tik%20tok-000000?style=for-the-badge&logo=tiktok)</a>
 <a href="https://join.skype.com/invite/LgyAGTDhpykv">![skype](https://img.shields.io/badge/-skype-000000?style=for-the-badge&logo=skype)</a>
@@ -19,15 +18,9 @@
 <a href="https://stackoverflow.com/users/16563592/atamyrat-%c5%9e%c3%bck%c3%bcrow">![stackoverflow](https://img.shields.io/badge/-stack%20overflow-000000?style=for-the-badge&logo=stackoverflow)</a>
 
 ### 🖥️ I used and using this Operating systems
-![Windows](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows11)
-![Apple](https://img.shields.io/badge/-IOS-000000?style=for-the-badge&logo=ios)
-![Apple](https://img.shields.io/badge/-Apple-000000?style=for-the-badge&logo=apple)
-![Android](https://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=android) 
-![Ubuntu](https://img.shields.io/badge/-ubuntu-000000?style=for-the-badge&logo=ubuntu) 
-![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux) 
+![Ubuntu](https://img.shields.io/badge/-ubuntu-000000?style=for-the-badge&logo=ubuntu)
 ![Centos](https://img.shields.io/badge/-centos-000000?style=for-the-badge&logo=centos) 
 ![Mint](https://img.shields.io/badge/-mint-000000?style=for-the-badge&logo=linuxmint) 
-![Debian](https://img.shields.io/badge/-debian-000000?style=for-the-badge&logo=debian)
 ![Kalilinux](https://img.shields.io/badge/-kali%20linux-000000?style=for-the-badge&logo=kalilinux)
 
 ### 💻 I use this Languages and Tools
