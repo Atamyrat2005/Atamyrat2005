@@ -20,9 +20,9 @@
 ### 🖥️ I used and using this Operating systems
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-000000?style=for-the-badge&logo=ubuntu)
 ![Centos](https://img.shields.io/badge/-centos-000000?style=for-the-badge&logo=centos) 
-![Mint](https://img.shields.io/badge/-Arch%20Linux-000000?style=for-the-badge&logo=archlinux) 
-![Mint](https://img.shields.io/badge/-linux%20mint-000000?style=for-the-badge&logo=linuxmint) 
-![Kalilinux](https://img.shields.io/badge/-kali%20linux-000000?style=for-the-badge&logo=kalilinux)
+![Mint](https://img.shields.io/badge/-arch-000000?style=for-the-badge&logo=archlinux) 
+![Mint](https://img.shields.io/badge/-mint-000000?style=for-the-badge&logo=linuxmint) 
+![Kalilinux](https://img.shields.io/badge/-kali-000000?style=for-the-badge&logo=kalilinux)
 
 ### 💻 I use this Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
