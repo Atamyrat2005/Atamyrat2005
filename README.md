@@ -37,6 +37,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP) 
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=Laravel)
 ![Mysql](https://img.shields.io/badge/-Mysql-000000?style=for-the-badge&logo=Mysql) 
+![phpmyadmin](https://img.shields.io/badge/-phpmyadmin-000000?style=for-the-badge&logo=phpmyadmin)
 ![Postgresql](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=Postgresql)
 ![mongodb](https://img.shields.io/badge/-mongo%20db-000000?style=for-the-badge&logo=mongodb)
 ![json](https://img.shields.io/badge/-json-000000?style=for-the-badge&logo=json)
@@ -45,7 +46,6 @@
 ![PWA](https://img.shields.io/badge/-PWA-000000?style=for-the-badge&logo=pwa)
 ![Postman](https://img.shields.io/badge/-postman-000000?style=for-the-badge&logo=Postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-000000?style=for-the-badge&logo=Insomnia)
-![VSCODE](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&logo=visualstudiocode)
 ![Phpstorm](https://img.shields.io/badge/-phpstorm-000000?style=for-the-badge&logo=Phpstorm)
 ![docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
 ![git](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=git)
@@ -55,11 +55,6 @@
 ![androidstudio](https://img.shields.io/badge/-android%20studio-000000?style=for-the-badge&logo=androidstudio)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000000?style=for-the-badge&logo=adobeillustrator)
 ![Photoshop](https://img.shields.io/badge/-photoshop-000000?style=for-the-badge&logo=adobephotoshop)
-### 💡 Now I'm learning this Languages and Tools
-![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=Django)
-![Node](https://img.shields.io/badge/-Node%20js-000000?style=for-the-badge&logo=node.js)
-![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=vue.js)
-![firebase](https://img.shields.io/badge/-firebase-000000?style=for-the-badge&logo=firebase)
 
 ### 📊 My stats
 <a href="http://github.com/atamyrat2005/" style="width: 50%;">
