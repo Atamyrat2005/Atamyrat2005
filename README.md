@@ -9,7 +9,6 @@
 ### 🌐 Follow Me / Contact Me / Reach Me
 <a href="https://www.instagram.com/sukurow_atamyrat">![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)</a>
 <a href="https://tiktok.com/@atamyrat05">![tiktok](https://img.shields.io/badge/-tik%20tok-000000?style=for-the-badge&logo=tiktok)</a>
-<a href="https://join.skype.com/invite/LgyAGTDhpykv">![skype](https://img.shields.io/badge/-skype-000000?style=for-the-badge&logo=skype)</a>
 <a href="https://t.me/atamyratt">![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)</a>
 <a href='https://github.com/atamyrat2005'>![github](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github)</a>
 <a href="mailto:shukurovatamyrat@gmail.com">![gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail)</a>
