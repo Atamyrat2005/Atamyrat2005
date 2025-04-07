@@ -58,7 +58,7 @@
 ### 📊 My stats
 <a href="http://github.com/atamyrat2005/" style="width: 50%;">
   
-![Stats1](https://github-readme-stats.vercel.app/api/top-langs?username=atamyrat2005&langs_count=16&card_width=320&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
+![Stats1](https://github-readme-stats.vercel.app/api/top-langs?username=atamyrat2005&langs_count=20&card_width=320&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
 <br><br>
 ![Stats2](https://github-readme-stats.vercel.app/api?username=Atamyrat2005&theme=dark&hide_border=false&include_all_commits=true)
 </a>
