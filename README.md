@@ -1,10 +1,9 @@
 <div align="center">
-<a href="https://github.com/atamyrat2005">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Atamyrat%20%C5%9E%C3%BCk%C3%BCrow;A%20passionate%20Full-Stack%20Developer;And%20a%20Junior%20App%20Developer;5%2B%20years%20of%20coding%20experience&font=Fira%20Code¢er=true&color=00bfff&vCenter=true&pause=1000&size=27&width=650" />
-</a>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=atamyrat2005&label=Profile%20Views&color=00bfff&style=flat-square" alt="atamyrat2005" />
+<p align="center">
+  <a href="https://github.com/atamyrat2005">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;I%20am%20Full-stack%20developer;And%20Junior%20App%20developer;5%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&color=ffffff&vCenter=true&pause=1000&size=25&width=600" />
+  </a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=atamyrat2005&label=Profile%20views&color=0e75b6&style=flat-square" alt="atamyrat2005" /> </p>
 </p>
 
 </div>
@@ -87,8 +86,8 @@ I'm a passionate **Full-Stack Developer** and **Junior App Developer** with over
 <p align="left">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 </p>
 
