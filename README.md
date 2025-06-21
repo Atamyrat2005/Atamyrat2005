@@ -1,5 +1,4 @@
 <div align="center">
-
 <a href="https://github.com/atamyrat2005">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Atamyrat%20%C5%9E%C3%BCk%C3%BCrow;A%20passionate%20Full-Stack%20Developer;And%20a%20Junior%20App%20Developer;5%2B%20years%20of%20coding%20experience&font=Fira%20Code¢er=true&color=00bfff&vCenter=true&pause=1000&size=27&width=650" />
 </a>
