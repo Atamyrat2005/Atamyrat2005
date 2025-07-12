@@ -148,7 +148,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Overall Stats & Languages</h3>
       <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atamyrat2005&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" alt="Atamyrat's Top Languages" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atamyrat2005&layout=compact&theme=tokyonight&hide_border=false&langs_count=20" alt="Atamyrat's Top Languages" />
         <br><br>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=atamyrat2005&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Atamyrat's GitHub Stats" />
       </p>
