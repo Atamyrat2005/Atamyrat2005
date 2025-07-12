@@ -122,5 +122,5 @@
 
 <br>
 <div align="center">
-  <img src="https://github.com/atamyrat2005/atamyrat2005/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/Atamyrat2005/Atamyrat2005/blob/main/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
