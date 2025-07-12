@@ -1,116 +1,115 @@
 <div align="center">
   <a href="https://github.com/atamyrat2005">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;Full-stack%20Web%20%26%20App%20Developer;AI/LLM%20Engineer%20%26%20Model%20Fine-tuner;5%2B%20Years%20of%20Experience&font=Fira%20Code&center=true&color=ffffff&vCenter=true&pause=1000&size=25&width=700" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Atamyrat%20%C5%9E%C3%BCk%C3%BCrow;Full-Stack%20Web%20%26%20App%20Developer;AI%2FLLM%20Engineer%20%26%20Model%20Fine-tuner;Cybersecurity%20%26%20Linux%20Enthusiast&font=Fira%20Code¢er=true&color=ffffff&vCenter=true&pause=1000&size=27&width=750" />
   </a>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=atamyrat2005&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=atamyrat2005&label=Profile%20views&color=0e75b6&style=flat-square" alt="atamyrat2005" />
+    A passionate Software Engineer from Turkmenistan 🇹🇲 with over 5 years of experience building intelligent, secure, and scalable digital solutions.
   </p>
 </div>
 
----
-
-## 👋 About Me
-
-I'm **Atamyrat Şükürow**, a versatile and passionate **Full-Stack Web & App Developer**, **Software Engineer**, and **AI/LLM Enthusiast** with over 5 years of experience building scalable digital solutions.  
-I specialize in developing full-fledged web platforms, mobile apps, and AI-powered systems using cutting-edge tools and frameworks.
-
-### 🔬 What I Do:
-- ✅ Build web platforms with **Bootstrap, Php, Laravel, MySQL/PostgreSQL**
-- 🔭 I build intelligent apps using **Laravel**
-- ✅ Create mobile apps with **Dart & Flutter**
-- 📦 I work on open-source and AI-driven platforms
-- ✅ Architect and design complex **database systems**
-- 🤖 Skilled in **LLM fine-tuning**, **Whisper STT**, and **PyTorch**
-- ✅ Fine-tune and deploy **LLMs & Whisper models**
-- 🧠 Building **offline multilingual RAG-based AI systems**
-- ✅ Work on **offline AI systems** and **multilingual intelligent tools**
-- ⚙️ I enjoy system-level engineering on **Linux**
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
+<div align="center">
   <a href="mailto:shukurovatamyrat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/Ata_05"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/atamyrat2005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://huggingface.co/Atamyrat2005"><img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-  <a href="https://github.com/atamyrat2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/atamyrat2005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://stackoverflow.com/users/16563592/atamyrat-%c5%9e%c3%bck%c3%bcrow"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://www.instagram.com/sukurow_atamyrat"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+</div>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h2 align="left">👋 More About Me</h2>
+      <p align="left">
+        I'm a builder at heart, driven by the challenge of architecting complex systems from the ground up. My expertise lies at the intersection of <strong>Full-Stack Development</strong>, <strong>Artificial Intelligence</strong>, and <strong>Cybersecurity</strong>. Whether it's crafting a dynamic web platform, a cross-platform mobile app, or a fine-tuned AI model that runs offline, I'm passionate about creating technology that solves real-world problems.
+      </p>
+      <ul>
+        <li>🚀 Architecting and deploying robust applications with <strong>Laravel, Flutter, and React</strong>.</li>
+        <li>🧠 Developing and fine-tuning AI systems, specializing in <strong>LLMs, RAG, and Whisper STT</strong> for multilingual, offline-capable solutions.</li>
+        <li>🛡️ Hardening systems and exploring vulnerabilities using tools like <strong>Kali Linux</strong>, with a strong foundation in system-level engineering on <strong>Linux</strong>.</li>
+        <li>🔭 I’m currently working on fine-tuning a multilingual Whisper model for low-resource languages.</li>
+        <li>💬 Ask me about anything related to my tech stack, I'm happy to help!</li>
+      </ul>
+    </td>
+    <td width="35%" valign="top">
+      <h2 align="left">💻 My Tech Stack</h2>
+      <p align="left">
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+        <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+        <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+        <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+        <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+        <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧠 AI / ML Stack
+## What I Can Build For You
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Whisper-007ACC?style=for-the-badge&logo=whisper&logoColor=white" />
-  <img src="https://img.shields.io/badge/Datasets-FFB000?style=for-the-badge&logo=googlesheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Fine-tuning-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-## 💻 My Tech Stack
-
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### Mobile
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### OS Experience
-<p align="left">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-</p>
+<table width="100%">
+  <tr >
+    <td width="33%" valign="top">
+      <h3>🚀 Custom Web & Mobile Apps</h3>
+      <p align="left">From dynamic business websites to complex cross-platform mobile apps, I architect and build end-to-end solutions tailored to your needs.</p>
+      <ul>
+        <li><b>Web Apps:</b> Using <code>Laravel</code>, <code>React</code>, and <code>Livewire</code></li>
+        <li><b>Mobile Apps:</b> Using <code>Flutter</code> for iOS & Android</li>
+        <li><b>APIs:</b> Secure & scalable RESTful APIs</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧠 Intelligent AI Solutions</h3>
+      <p align="left">I develop and integrate custom AI models to make your applications smarter, with a focus on offline-capable and multilingual systems.</p>
+      <ul>
+        <li><b>LLM Fine-Tuning</b> & RAG pipelines</li>
+        <li><b>Speech-to-Text</b> with custom <code>Whisper</code> models</li>
+        <li><b>AI Feature Integration</b> into existing apps</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛡️ Secure & Scalable Infrastructure</h3>
+      <p align="left">Building on a foundation of security best practices, I design and deploy robust, containerized backends that are built to scale.</p>
+      <ul>
+        <li><b>DevOps:</b> <code>Docker</code>, <code>Nginx</code>, CI/CD</li>
+        <li><b>Databases:</b> <code>MySQL</code>, <code>PostgreSQL</code>, <code>MongoDB</code></li>
+        <li><b>Systems:</b> Hardened <code>Linux</code> environments</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atamyrat2005&layout=compact&theme=tokyonight&hide_border=false&langs_count=20" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Atamyrat2005&show_icons=true&theme=tokyonight&hide_border=false" />
-</p>
+<details>
+  <summary>Click to view my GitHub stats</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=atamyrat2005&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Atamyrat's GitHub Stats" />
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atamyrat2005&theme=tokyonight&hide_border=false" alt="Atamyrat's GitHub Streak" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atamyrat2005&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" alt="Atamyrat's Top Languages" />
+  </p>
+</details>
 
----
+<br>
+<div align="center">
+  <img src="https://github.com/atamyrat2005/atamyrat2005/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
 <div align="center">
   
