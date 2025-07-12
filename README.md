@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/atamyrat2005">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Atamyrat%20%C5%9E%C3%BCk%C3%BCrow;Full-Stack%20Web%20%26%20App%20Developer;AI%2FLLM%20Engineer%20%26%20Model%20Fine-tuner;Cybersecurity%20%26%20Linux%20Enthusiast&font=Fira%20Code¢er=true&color=ffffff&vCenter=true&pause=1000&size=27&width=750" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;Full-stack%20Web%20%26%20App%20Developer;AI/LLM%20Engineer%20%26%20Model%20Fine-tuner;5%2B%20Years%20of%20Experience&font=Fira%20Code&center=true&color=ffffff&vCenter=true&pause=1000&size=25&width=700" />
   </a>
   <p>
     <img src="https://komarev.com/ghpvc/?username=atamyrat2005&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
