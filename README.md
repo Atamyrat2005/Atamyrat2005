@@ -94,25 +94,33 @@
 
 ## 📈 My GitHub Stats & Activity
 
-<details>
-  <summary>Click to view my GitHub stats</summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=atamyrat2005&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Atamyrat's GitHub Stats" />
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atamyrat2005&theme=tokyonight&hide_border=false" alt="Atamyrat's GitHub Streak" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atamyrat2005&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" alt="Atamyrat's Top Languages" />
-  </p>
-</details>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Overall Stats & Languages</h3>
+      <p align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=atamyrat2005&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Atamyrat's GitHub Stats" />
+        <br><br>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atamyrat2005&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" alt="Atamyrat's Top Languages" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Trophies & Streaks</h3>
+      <p align="center">
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=atamyrat2005&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15" alt="Atamyrat's Trophies" />
+        <br>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atamyrat2005&theme=tokyonight&hide_border=false" alt="Atamyrat's GitHub Streak" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!-- This section will be automatically updated by a GitHub Action -->
+<!--END_SECTION:activity-->
 
 <br>
 <div align="center">
   <img src="https://github.com/atamyrat2005/atamyrat2005/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
-<div align="center">
-  
-*Thanks for stopping by! Let's build something amazing together.*
-
 </div>
