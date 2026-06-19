@@ -1,13 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=220&section=header&text=Atamyrat%20Shukurow&fontSize=42&fontColor=70a5fd&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cybersecurity&descSize=16&descColor=bf91f3&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=220&section=header&text=Atamyrat%20Shukurow&fontSize=42&fontColor=70a5fd&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cybersecurity%20Specialist&descSize=16&descColor=bf91f3&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+intelligent+systems+from+scratch;Fine-tuning+LLMs+for+low-resource+languages;Architecting+scalable+full-stack+apps;5%2B+years+of+shipping+real+products&font=JetBrains+Mono&center=true&color=70a5fd&vCenter=true&pause=1000&size=18&width=550&height=40)](https://github.com/atamyrat2005)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+intelligent+systems+from+scratch;Fine-tuning+LLMs+for+low-resource+languages;Architecting+scalable+full-stack+apps;Penetration+Testing+%26+Security+Auditing;5%2B+years+of+shipping+real+products&font=JetBrains+Mono&center=true&color=70a5fd&vCenter=true&pause=1000&size=18&width=550&height=40)](https://github.com/atamyrat2005)
 
 <br>
 
 <a href="mailto:shukurovatamyrat@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" /></a>
 <a href="https://t.me/Ata_05"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26a5e4" /></a>
+<a href="https://www.linkedin.com/in/atamyratshukurov/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" /></a>
 <a href="https://huggingface.co/Atamyrat2005"><img src="https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=ffd21e" /></a>
 <a href="https://leetcode.com/u/atamyrat2005/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa116" /></a>
 <a href="https://stackoverflow.com/users/16563592/atamyrat-%c5%9e%c3%bck%c3%bcrow"><img src="https://img.shields.io/badge/StackOverflow-0d1117?style=for-the-badge&logo=stackoverflow&logoColor=f58025" /></a>
@@ -28,7 +29,19 @@ Focus     : Full-Stack Dev | AI/ML | Cybersecurity
 Currently : Fine-tuning multilingual Whisper for low-resource languages
 ```
 
-I build at the intersection of **full-stack development**, **AI engineering**, and **security**. From Laravel backends and Flutter apps to fine-tuned LLMs and offline Whisper models, I focus on shipping real products that solve real problems.
+I build at the intersection of **full-stack development**, **AI engineering**, and **cybersecurity**. From Laravel backends and Flutter apps to fine-tuned LLMs, offline Whisper models, and penetration testing — I focus on shipping real products and keeping them secure.
+
+<br>
+
+## `> experience`
+
+| Role | Company | Period | Highlights |
+|------|---------|--------|------------|
+| **Full-Stack Developer** | Freelance | 2020 — Present | Built 15+ web & mobile apps with Laravel, React, Flutter. End-to-end from design to deployment. |
+| **AI/ML Engineer** | Freelance | 2022 — Present | Fine-tuned Whisper STT for Turkmen language. Built RAG pipelines and offline LLM solutions. |
+| **Cybersecurity Specialist** | Freelance | 2021 — Present | Penetration testing, vulnerability assessment, and security auditing using Kali Linux, Nmap, Burp Suite. |
+
+> *Feel free to check my [LinkedIn](https://www.linkedin.com/in/atamyratshukurov/) for the full details.*
 
 <br>
 
@@ -42,18 +55,20 @@ I build at the intersection of **full-stack development**, **AI engineering**, a
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=ee4c2c)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=ffd21e)
-![Whisper](https://img.shields.io/badge/Whisper-0d1117?style=flat-square&logo=openai&logoColor=00a67e)
+![OpenAI Whisper](https://img.shields.io/badge/Whisper_STT-0d1117?style=flat-square&logo=openai&logoColor=ffffff)
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e)
+![jQuery](https://img.shields.io/badge/jQuery-0d1117?style=flat-square&logo=jquery&logoColor=0769ad)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=264de4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952b3)
 
 #### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569b)
 ![Dart](https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175c2)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=ffca28)
 
 </td>
 <td width="50%" valign="top">
@@ -70,10 +85,13 @@ I build at the intersection of **full-stack development**, **AI engineering**, a
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed)
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
 
-#### Tools & Security
+#### Security & Tools
+![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557c94)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=0e83cd)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=portswigger&logoColor=ff6633)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679a7)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=ff6c37)
-![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557c94)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=flat-square&logo=ubuntu&logoColor=e95420)
 
 </td>
@@ -103,9 +121,9 @@ I build at the intersection of **full-stack development**, **AI engineering**, a
 <td align="center" width="33%">
 <img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-cyber-security-computer-programming-flaticons-flat-flat-icons.png" />
 <br><br>
-<strong>Secure Infrastructure</strong>
+<strong>Pentesting & Security</strong>
 <br><br>
-<sub>Containerized deployments with Docker & Nginx. Hardened systems, security-first design.</sub>
+<sub>Vulnerability assessment, penetration testing, and security auditing with Nmap, Burp Suite, and Wireshark.</sub>
 </td>
 </tr>
 </table>
