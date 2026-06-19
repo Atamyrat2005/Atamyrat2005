@@ -67,6 +67,7 @@ I build at the intersection of **full-stack development**, **AI engineering**, a
 - Designed & built the entire platform from the ground up
 - Architected scalable database structures & REST APIs
 - Implemented admin dashboard, CMS, visitor analytics
+- Built an **AI-powered content automation system** that daily scrapes Turkmenistan travel news, generates unique SEO-optimized articles (titles, descriptions, tags), and auto-translates to Chinese, Japanese & English for multilingual localization
 - Led all technical decisions, security & deployment
 - Managed server infrastructure & DevOps operations
 
@@ -95,7 +96,7 @@ Taxi & ride-hailing platform with real-time tracking, OSRM routing, offline maps
 <td width="50%" valign="top">
 
 #### 🌍 [TurkmenTravels.com](https://turkmentravels.com/)
-Advanced travel management platform with admin dashboard, tour management, analytics, CMS & server controls.
+Advanced travel platform with AI-powered daily content automation — auto-scrapes news, generates SEO-optimized articles, and translates to Chinese, Japanese & English.
 
 #### 🛒 [Sanly Bazar](https://sanlybazar.alemtilsimat.com/)
 Dynamic multi-vendor marketplace — shops, cafes, jobs, services. Laravel + Bootstrap + PostgreSQL. Mobile app in progress.
