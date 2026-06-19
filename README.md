@@ -110,7 +110,7 @@ Dynamic multi-vendor marketplace — shops, cafes, jobs, services. Laravel + Boo
 
 | Certificate | Issuer | Year |
 |-------------|--------|------|
-| 🏆 **Regional Finalist** — "Designing the Future 2026" (Top 23 from 102 projects) | EECA Regional Stage, Moscow | 2026 |
+| 🏆 **Regional Finalist** — [Global Contest for Designing the Future](https://gcd4fe.bnu.edu.cn/) (Top 23/102) | Beijing Normal University (BNU) | 2026 |
 | 🥇 **1st Place** — International English Language Olympiad | Reshetnev Siberian State University | 2025 |
 | 🥉 **3rd Place** — AI Innovation "Sanly Chozgut 2025" | Ministry of Communications of Turkmenistan | 2025 |
 | **SQL (Advanced)** Certification | HackerRank | 2025 |
