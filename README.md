@@ -24,24 +24,90 @@
 ## `> whoami`
 
 ```text
-Location  : Turkmenistan
-Focus     : Full-Stack Dev | AI/ML | Cybersecurity
-Currently : Fine-tuning multilingual Whisper for low-resource languages
+Location  : Ashgabat, Turkmenistan
+Role      : Full-Stack Developer | AI Engineer | Cybersecurity Specialist
+Education : Institute of Telecommunications and Informatics of Turkmenistan (2023–2028)
+Currently : Fine-tuning multilingual Whisper & building Turkmen AI Assistant
 ```
 
-I build at the intersection of **full-stack development**, **AI engineering**, and **cybersecurity**. From Laravel backends and Flutter apps to fine-tuned LLMs, offline Whisper models, and penetration testing — I focus on shipping real products and keeping them secure.
+I build at the intersection of **full-stack development**, **AI engineering**, and **cybersecurity**. From Laravel backends and Flutter apps to fine-tuned LLMs, offline Whisper models, and penetration testing — I ship real products that solve real problems.
 
 <br>
 
 ## `> experience`
 
-| Role | Company | Period | Highlights |
-|------|---------|--------|------------|
-| **Full-Stack Developer** | Freelance | 2020 — Present | Built 15+ web & mobile apps with Laravel, React, Flutter. End-to-end from design to deployment. |
-| **AI/ML Engineer** | Freelance | 2022 — Present | Fine-tuned Whisper STT for Turkmen language. Built RAG pipelines and offline LLM solutions. |
-| **Cybersecurity Specialist** | Freelance | 2021 — Present | Penetration testing, vulnerability assessment, and security auditing using Kali Linux, Nmap, Burp Suite. |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> *Feel free to check my [LinkedIn](https://www.linkedin.com/in/atamyratshukurov/) for the full details.*
+### <img width="16" src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=rocket&logoColor=bf91f3" /> AlemTilsimat — 3 yrs
+
+**AI Developer** `Part-time · Jun 2025 – Present`
+- Fine-tuned Whisper & Vosk STT for Turkmen language
+- Built RAG pipelines with quantized LLMs (Mistral)
+- Developed multilingual AI systems (Turkmen/English/Russian)
+- Created API-based AI services integrated into Laravel & Flutter apps
+
+**Mobile App Developer** `Jul 2023 – Present`
+- Built "Alem Owazy" music streaming platform with Flutter
+- Published on Google Play Store & Apple App Store
+- Integrated backend APIs for music streaming & content management
+
+</td>
+<td width="50%" valign="top">
+
+### <img width="16" src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=globe&logoColor=70a5fd" /> TurkmenTravels.com
+
+**Senior Software Developer** `Apr 2025 – Present`
+- Designed & built the entire platform from the ground up
+- Architected scalable database structures & REST APIs
+- Implemented admin dashboard, CMS, visitor analytics
+- Led all technical decisions, security & deployment
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `> projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎵 [Alem Owazy](https://alemowazy.com/)
+Full-stack music streaming platform — Flutter mobile app + Laravel backend. Available on Play Store & App Store.
+
+#### 🤖 Alem AI — Turkmen AI Assistant
+Fine-tuned LLM + STT + TTS + RAG system for Turkmen language. End-to-end voice pipeline: Speech → LLM → Response → TTS.
+
+#### 🚕 Yndam Express
+Taxi & ride-hailing platform with real-time tracking, OSRM routing, offline maps, Flutter apps + Laravel API.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌍 [TurkmenTravels.com](https://turkmentravels.com/)
+Advanced travel management platform with admin dashboard, tour management, analytics, CMS & server controls.
+
+#### 🛒 [Sanly Bazar](https://sanlybazar.alemtilsimat.com/)
+Dynamic multi-vendor marketplace — shops, cafes, jobs, services. Laravel + Bootstrap + PostgreSQL. Mobile app in progress.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `> certifications`
+
+| Certificate | Issuer | Year |
+|-------------|--------|------|
+| 🥇 **1st Place** — International English Language Olympiad | Reshetnev Siberian State University | 2025 |
+| 🥉 **3rd Place** — AI Innovation "Sanly Chozgut 2025" | Ministry of Communications of Turkmenistan | 2025 |
+| **SQL (Advanced)** Certification | HackerRank | 2025 |
+| **Software Engineer** Certification | HackerRank | 2025 |
 
 <br>
 
