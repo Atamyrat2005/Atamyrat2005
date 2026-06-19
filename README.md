@@ -178,21 +178,21 @@ Dynamic multi-vendor marketplace — shops, cafes, jobs, services. Laravel + Boo
 <table>
 <tr>
 <td align="center" width="33%">
-<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-full-stack-developer-computer-programming-flaticons-flat-flat-icons.png" />
+<img width="50" src="https://cdn-icons-png.flaticon.com/512/1197/1197460.png" />
 <br><br>
 <strong>Full-Stack Apps</strong>
 <br><br>
 <sub>End-to-end web & mobile applications with Laravel, React, and Flutter. Clean architecture, great UX.</sub>
 </td>
 <td align="center" width="33%">
-<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-artificial-intelligence-computer-programming-flaticons-flat-flat-icons.png" />
+<img width="50" src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" />
 <br><br>
 <strong>AI Solutions</strong>
 <br><br>
 <sub>Custom LLMs, RAG pipelines, and Whisper fine-tuning. Offline-first, multilingual, production-ready.</sub>
 </td>
 <td align="center" width="33%">
-<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-cyber-security-computer-programming-flaticons-flat-flat-icons.png" />
+<img width="50" src="https://cdn-icons-png.flaticon.com/512/2092/2092757.png" />
 <br><br>
 <strong>Pentesting & Security</strong>
 <br><br>
@@ -216,7 +216,7 @@ Dynamic multi-vendor marketplace — shops, cafes, jobs, services. Laravel + Boo
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=atamyrat2005&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" />
+<img src="https://github-trophies.vercel.app/?username=atamyrat2005&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
 
 </div>
 
