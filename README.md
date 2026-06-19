@@ -89,7 +89,7 @@ Full-stack music streaming platform — Flutter mobile app + Laravel backend. Av
 #### 🤖 Alem AI — Turkmen AI Assistant
 Fine-tuned LLM + STT + TTS + RAG system for Turkmen language. End-to-end voice pipeline: Speech → LLM → Response → TTS.
 
-#### 🚕 Yndam Express
+#### 🚕 Yyndam Express
 Taxi & ride-hailing platform with real-time tracking, OSRM routing, offline maps, Flutter apps + Laravel API.
 
 </td>
