@@ -40,13 +40,18 @@ I build at the intersection of **full-stack development**, **AI engineering**, a
 <tr>
 <td width="50%" valign="top">
 
-### <img width="16" src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=rocket&logoColor=bf91f3" /> AlemTilsimat — 3 yrs
+### <img width="16" src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=rocket&logoColor=bf91f3" /> AlemTilsimat — 3 yrs · Part-time
 
-**AI Developer** `Part-time · Jun 2025 – Present`
+**AI Developer** `Jun 2025 – Present`
 - Fine-tuned Whisper & Vosk STT for Turkmen language
 - Built RAG pipelines with quantized LLMs (Mistral)
 - Developed multilingual AI systems (Turkmen/English/Russian)
 - Created API-based AI services integrated into Laravel & Flutter apps
+
+**Full-Stack Web Developer & DevOps** `Jul 2023 – Present`
+- Developed and maintained web applications with Laravel, PHP & Bootstrap
+- Managed server infrastructure, CI/CD pipelines, and deployments
+- Configured Nginx, Docker containers, and Linux server environments
 
 **Mobile App Developer** `Jul 2023 – Present`
 - Built "Alem Owazy" music streaming platform with Flutter
@@ -56,13 +61,14 @@ I build at the intersection of **full-stack development**, **AI engineering**, a
 </td>
 <td width="50%" valign="top">
 
-### <img width="16" src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=globe&logoColor=70a5fd" /> TurkmenTravels.com
+### <img width="16" src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=globe&logoColor=70a5fd" /> TurkmenTravels.com · Remote
 
 **Senior Software Developer** `Apr 2025 – Present`
 - Designed & built the entire platform from the ground up
 - Architected scalable database structures & REST APIs
 - Implemented admin dashboard, CMS, visitor analytics
 - Led all technical decisions, security & deployment
+- Managed server infrastructure & DevOps operations
 
 </td>
 </tr>
@@ -104,6 +110,7 @@ Dynamic multi-vendor marketplace — shops, cafes, jobs, services. Laravel + Boo
 
 | Certificate | Issuer | Year |
 |-------------|--------|------|
+| 🏆 **Regional Finalist** — "Designing the Future 2026" (Top 23 from 102 projects) | EECA Regional Stage, Moscow | 2026 |
 | 🥇 **1st Place** — International English Language Olympiad | Reshetnev Siberian State University | 2025 |
 | 🥉 **3rd Place** — AI Innovation "Sanly Chozgut 2025" | Ministry of Communications of Turkmenistan | 2025 |
 | **SQL (Advanced)** Certification | HackerRank | 2025 |
