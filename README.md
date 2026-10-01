@@ -7,7 +7,7 @@
 <br>
 
 <a href="mailto:shukurovatamyrat@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" /></a>
-<a href="https://t.me/Ata_05"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26a5e4" /></a>
+<a href="https://t.me/Atamyrat_05"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26a5e4" /></a>
 <a href="https://www.linkedin.com/in/atamyratshukurov/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" /></a>
 <a href="https://huggingface.co/Atamyrat2005"><img src="https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=ffd21e" /></a>
 <a href="https://leetcode.com/u/atamyrat2005/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa116" /></a>
