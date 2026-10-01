@@ -92,6 +92,9 @@ Fine-tuned LLM + STT + TTS + RAG system for Turkmen language. End-to-end voice p
 #### 🚕 Yyndam Express
 Taxi & ride-hailing platform with real-time tracking, OSRM routing, offline maps, Flutter apps + Laravel API.
 
+#### 🚀 Tiz Bar — Taxi & Courier
+Fast taxi and courier delivery platform built fully from scratch. Flutter mobile apps (passenger + driver) + Laravel backend with real-time order tracking, route optimization, courier dispatch system, and driver management. Handles both ride-hailing and last-mile delivery in one unified platform.
+
 </td>
 <td width="50%" valign="top">
 
@@ -100,6 +103,9 @@ Advanced travel platform with AI-powered daily content automation — auto-scrap
 
 #### 🛒 [Sanly Bazar](https://sanlybazar.alemtilsimat.com/)
 Dynamic multi-vendor marketplace — shops, cafes, jobs, services. Laravel + Bootstrap + PostgreSQL. Mobile app in progress.
+
+#### 🏫 [Telekechiler Mekdebi](https://telekechilermekdebi.edu.tm/) — Entrepreneurs School
+Official educational platform for Turkmenistan's Entrepreneurs School — built from zero, end-to-end. Fully automated student registration, online payments integrated with **Rysgal Halkbank**, automated document generation & filling, curriculum management, and administrative dashboards. Handled all DevOps (server setup, CI/CD, Nginx, Docker) and cybersecurity (penetration testing, hardening, security auditing) for the entire platform.
 
 </td>
 </tr>
